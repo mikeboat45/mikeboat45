@@ -47,7 +47,7 @@ I'm currently enrolled in the **ALX Front-End Developer Program**, where I'm lea
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-boateng-mensah)
-- 🐦 [Twitter/X](https://x.com/) *(learning updates + memes coming soon)*
+- 🐦 [Twitter/X](https://x.com/b_mykke) *(learning updates + memes coming soon)*
 - 🌐 Portfolio: coming soon!
 
 ---

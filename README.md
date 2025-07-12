@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm a curious and growth-minded individual on a jo
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="25" height="25"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html-5" width="25" height="25"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css-3" width="25" height="25"></img>
+<img src="https://github.com/user-attachments/assets/02e079a2-8b9c-46e8-8ea8-8c69ba9ba5ae" alt="javascript" width="25" height="25"></img>
+<img src="https://github.com/user-attachments/assets/d6d47523-653b-4f5e-801e-31568fb9453c" alt="python" width="25" height="25"></img>
 <img src="https://github.com/user-attachments/assets/f77085d2-1b84-4cea-92e0-f0837cda4661" alt="sql" width="25" height="25"></img>
 <img src="https://github.com/user-attachments/assets/cfe46115-c005-4f92-bcc0-ec411856e9bf" alt="power-bi" width="25" height="25"></img>
 <img src="https://github.com/user-attachments/assets/c176dea2-2cc3-4f68-9a9f-612000a65782" alt="" width="60" height="25"></img>

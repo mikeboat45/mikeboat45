@@ -1,68 +1,27 @@
-# 👋 Hi, I'm Michael Mensah
+<h1 align="center">Hi 👋, I'm Michael Boateng Mensah</h1>
+<h3 align="center">A passionate full-stack developer from Ghana</h3>
 
-Welcome to my GitHub profile! I'm a curious and growth-minded individual on a journey from **data analysis** to **front-end development**. With a background in healthcare and data, I enjoy solving real-world problems using both insights and interfaces.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeboat45&label=Profile%20views&color=0e75b6&style=flat" alt="mikeboat45" /> </p>
 
----
+- 🌱 I’m currently learning **Nextjs, TypeScript, Node.js**
 
-## Tech Stack
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vs-code" width="25" height="25"></img>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="25" height="25"></img>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html-5" width="25" height="25"></img>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css-3" width="25" height="25"></img>
-<img src="https://github.com/user-attachments/assets/02e079a2-8b9c-46e8-8ea8-8c69ba9ba5ae" alt="javascript" width="25" height="25"></img>
-<img src="https://github.com/user-attachments/assets/d6d47523-653b-4f5e-801e-31568fb9453c" alt="python" width="25" height="25"></img>
-<img src="https://github.com/user-attachments/assets/f77085d2-1b84-4cea-92e0-f0837cda4661" alt="sql" width="25" height="25"></img>
-<img src="https://github.com/user-attachments/assets/cfe46115-c005-4f92-bcc0-ec411856e9bf" alt="power-bi" width="25" height="25"></img>
-<img src="https://github.com/user-attachments/assets/c176dea2-2cc3-4f68-9a9f-612000a65782" alt="" width="60" height="25"></img>
+- 📫 How to reach me **boatengmensahmichael@gmail.com**
 
-## 💼 Background
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/b_mykke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="b_mykke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-boateng-mensah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-boateng-mensah" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-- 🎓 BSc in Physician Assistantship
-- 📊 Experience in data analysis & business insights
-- 🧠 Passion for tech, design, and digital tools that improve lives
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeboat45&show_icons=true&locale=en" alt="github-stats" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikeboat45&" alt="github-streak" /></p>
 
-## 💡 Current Focus: Front-End Development
+[![An image of @mikeboat45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikeboat45)](https://holopin.io/@mikeboat45)
 
-I'm currently enrolled in the **ALX Front-End Developer Program**, where I'm learning to build scalable, responsive web applications using:
 
-- **HTML & CSS**
-- **JavaScript (ES6+)**
-- **React.js**
-- **Tailwind CSS**
-- **Figma for UI/UX design**
-- **API Integration**
 
-> 🧭 My goal: To land a front-end developer role within 6 months and contribute to impactful, user-centered digital products.
-
----
-
-## 📚 Previously Worked In
-
-- Data cleaning, exploration, and visualization using Excel and SQL
-- Business dashboards for healthcare projects
-- Translating user and business needs into actionable insights
-
----
-
-## 🚀 What You’ll Find Here
-
-- Front-end mini projects
-- React + Tailwind UI experiments
-- Data analysis notebooks (archived)
-- Learning logs and personal growth repos
-
----
-
-## 📫 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/michael-boateng-mensah)
-- 🐦 [Twitter/X](https://x.com/b_mykke)
-- [![An image of @mikeboat45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mikeboat45)](https://holopin.io/@mikeboat45)
-- 🌐 Portfolio: coming soon!
-
----
-
-Thanks for stopping by — I’m always open to learning, feedback, and collaboration. Let’s build something meaningful together. 🚀

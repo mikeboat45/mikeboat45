@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Boateng Mensah</h1>
-<h3 align="center">A passionate full-stack developer from Ghana</h3>
+<h3 align="center">An aspiring full-stack developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeboat45&label=Profile%20views&color=0e75b6&style=flat" alt="mikeboat45" /> </p>
 - 🔭 I’m currently working on a frontend ecommerce project for the sale of African clothing. <a href="https://github.com/mikeboat45/kente-heritage" target="_blank">LINK</a>

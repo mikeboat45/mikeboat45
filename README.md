@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs, TypeScript, Node.js**
 
-- 👨‍💻 All of my projects are available at <a href="https://mikeboat45.github.io/portfolio-website" target="_blank">michaelboatengdev.vercel.app</a>. (Portfolio coming soon!)
+- 👨‍💻 All of my projects are available at <a href="https://boatengdev.netlify.app" target="_blank">boatengdev.netlify.app</a>.
 
 - 📫 How to reach me **boatengmensahmichael@gmail.com**
 

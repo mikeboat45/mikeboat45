@@ -2,11 +2,13 @@
 <h3 align="center">An aspiring full-stack developer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikeboat45&label=Profile%20views&color=0e75b6&style=flat" alt="mikeboat45" /> </p>
-- 🔭 I’m currently working on a frontend ecommerce project for the sale of African clothing. <a href="https://github.com/mikeboat45/kente-ecommerce-app" target="_blank">LINK</a>
 
-- 🌱 I’m currently learning **Nextjs, TypeScript, Node.js**
+- 🔭 I’m currently participating in a hackathon to build a currency converter web app with vanilla JS and API integration <a href="https://github.com/mikeboat45/currency-converter" target="_blank">LINK</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://boatengdev.netlify.app" target="_blank">boatengdev.netlify.app</a>.
+- 🌱 I’m currently taking the Havard CS50: Introduction to Computer Science to build foundational programming skills in C, Python, JS and SQL.
+<!-- learning **Nextjs, TypeScript, Node.js** -->
+
+- 👨‍💻 All of my live projects are available at <a href="https://boatengdev.netlify.app" target="_blank">boatengdev.netlify.app</a>.
 
 - 📫 How to reach me **boatengmensahmichael@gmail.com**
 
